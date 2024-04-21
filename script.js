@@ -7,7 +7,7 @@ const miniaturaImagem1 = document.getElementById('1-imagem-miniatura');
 const miniaturaImagem2 = document.getElementById('2-imagem-miniatura');
 const verdeCipreste = {
   name: "Verde-Cipreste",
-  folder: "imagens-verde-Cipreste",
+  folder: "imagens-verde-cipreste",
 };
 const azulInverno = {
   name: "Azul-inverno",
